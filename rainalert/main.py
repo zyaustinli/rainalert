@@ -5,13 +5,13 @@ import os
 
 
 
-account_sid ="ACdd923b80dca31ea588009897fb7b4ebb"
-auth_token  ="25ecedc1ae14c899dcc072bad802b9eb"
+account_sid =""
+auth_token  =""
 
-MY_LAT = 32.933825  # Your latitude
-MY_LONG = -117.161757  # Your longitude
+MY_LAT =  # Your latitude
+MY_LONG =   # Your longitude
 
-api_key = "98384944fd94048c71bf86e1c457f36f"
+api_key = ""
 
 parameters = {
 "lat": MY_LAT,
